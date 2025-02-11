@@ -72,6 +72,7 @@ const ALLOWED_PERMISSIONS: string[] = [
   'pointerLock',
   // Games might do that too
   'fullscreen',
+  'media',
 ]
 
 const WRAPPER_PATH = 'webxdc-wrapper.45870014933640136498.html'
